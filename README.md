@@ -16,8 +16,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https:///blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/CSDN-文艺倾年-red" /></a>&emsp;
+    <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-artboy_lyh-07c160" /></a>&emsp;
+    <img src="https://img.shields.io/badge/QQ-1531137510-green?logo=tencentqq" />&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
