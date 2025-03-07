@@ -20,7 +20,7 @@
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_51517236"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
