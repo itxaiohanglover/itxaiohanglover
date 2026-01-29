@@ -33,17 +33,18 @@
 
 ## 项目
 
-- 🎚️ **[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)** - SAA。
-- 🎚️ **[disk-cleaner](https://github.com/gccszs/disk-cleaner)** - 磁盘清理Skill。
-- 🎚️ **[mcp-codestyle-server](https://github.com/itxaiohanglover/mcp-codestyle-server)** - 码蜂。
-- 🎚️ **[spirit-link-2026](https://github.com/itxaiohanglover/spirit-link-2026)** - 马到成功魔术小游戏。
-- 🎚️ **[offer-laolao](https://github.com/itxaiohanglover/offer-laolao-plugin)** - 简历表单填写浏览器扩展。
-- 🎚️ **[deep-code-research](https://github.com/itxaiohanglover/deep-code-research)** - 基于ms-agent的深度代码研究框架。
-- 🎚️ **[leetcode-runner](https://github.com/itxaiohanglover/leetcode-runner)** - 一款Leetcode刷题Jetbrain插件。
-- 🎚️ **[big_screen_employee](https://github.com/itxaiohanglover/big_screen_employee_manage)** - 可视化大屏员工管理系统。
-- 🎚️ **[sql_generator](https://github.com/itxaiohanglover/sql_generator)** - Entity -> Sql文档工具。
-- 🎚️ **[bookshop](https://github.com/itxaiohanglover/bookshop)** - 云边书香。
-- 🎚️ **[tyut_dormitory](https://github.com/itxaiohanglover/tyut_dormitory_springboot_vue)** - 智慧太理宿舍管理系统。
-- 🎚️ **[music_java](https://github.com/itxaiohanglover/music_java)** - 基于Java实现乐谱演奏。
-- 🎚️ **[3d-world](https://github.com/itxaiohanglover/3d-world)** - 仿照元神，基于Vue + ts 实现的 3d world 游戏。
-- 🎚️ **[VPower](https://github.com/itxaiohanglover/VPower)** - 健身小程序。
+- 🍃 **[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)** - 阿里官方 Spring AI 实现，接入通义大模型能力的 Java 开发框架。
+- 🧹 **[disk-cleaner](https://github.com/gccszs/disk-cleaner)** - 智能磁盘清理工具 / Agent Skill，自动化释放系统空间。
+- 🐝 **[mcp-codestyle-server](https://github.com/itxaiohanglover/mcp-codestyle-server)** - 码蜂：基于 MCP 协议的企业级代码知识库与效能工具服务端。
+- 🐎 **[spirit-link-2026](https://github.com/itxaiohanglover/spirit-link-2026)** - 灵犀 2026：专为蛇年/马年设计的节日魔术互动 Web 小游戏。
+- 🧩 **[offer-laolao](https://github.com/itxaiohanglover/offer-laolao-plugin)** - Offer捞捞：自动化简历填写与优化的浏览器扩展。
+- 🚦 **[traffic_sim_pib](https://github.com/gccszs/traffic_sim_pib)** - 基于 PIB 模型的交通流仿真与模拟系统。
+- 🔬 **[deep-code-research](https://github.com/itxaiohanglover/deep-code-research)** - 深度代码研究框架，基于 Multi-Agent 架构的代码分析系统。
+- 🏃 **[leetcode-runner](https://github.com/itxaiohanglover/leetcode-runner)** - 专为 JetBrains IDE 打造的 LeetCode 本地化刷题插件。
+- 📊 **[big_screen_employee](https://github.com/itxaiohanglover/big_screen_employee_manage)** - 企业员工数据可视化大屏管理系统。
+- 🗄️ **[sql_generator](https://github.com/itxaiohanglover/sql_generator)** - 开发者效能工具，支持 Entity 到 SQL 文档的自动生成。
+- 📚 **[bookshop](https://github.com/itxaiohanglover/bookshop)** - 云边书香：全栈式网上书店管理系统。
+- 🏫 **[tyut_dormitory](https://github.com/itxaiohanglover/tyut_dormitory_springboot_vue)** - 智慧太理：基于 SpringBoot + Vue 的高校宿舍管理系统。
+- 🎵 **[music_java](https://github.com/itxaiohanglover/music_java)** - 纯 Java 实现的乐谱解析与自动演奏引擎。
+- 🌍 **[3d-world](https://github.com/itxaiohanglover/3d-world)** - 3D World：基于 Vue + TS + Three.js 构建的开放世界游戏 Demo。
+- 💪 **[VPower](https://github.com/itxaiohanglover/VPower)** - VPower：个人健身追踪与指导微信小程序。
