@@ -18,7 +18,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <h1>🙋 嗨，你好，我是文艺倾年。热爱编程、音乐、读书、旅行。</h1>
+  <h1>👋 嗨，你好，我是文艺倾年。热爱编程、音乐、读书、旅行。</h1>
 
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -29,5 +29,21 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div> 
-  
 </div>
+
+## 项目
+
+- 🎚️ **[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)** - SAA。
+- 🎚️ **[disk-cleaner](https://github.com/gccszs/disk-cleaner)** - 磁盘清理Skill。
+- 🎚️ **[mcp-codestyle-server](https://github.com/itxaiohanglover/mcp-codestyle-server)** - 码蜂。
+- 🎚️ **[spirit-link-2026](https://github.com/itxaiohanglover/spirit-link-2026)** - 马到成功魔术小游戏。
+- 🎚️ **[offer-laolao](https://github.com/itxaiohanglover/offer-laolao-plugin)** - 简历表单填写浏览器扩展。
+- 🎚️ **[deep-code-research](https://github.com/itxaiohanglover/deep-code-research)** - 基于ms-agent的深度代码研究框架。
+- 🎚️ **[leetcode-runner](https://github.com/itxaiohanglover/leetcode-runner)** - 一款Leetcode刷题Jetbrain插件。
+- 🎚️ **[big_screen_employee](https://github.com/itxaiohanglover/big_screen_employee_manage)** - 可视化大屏员工管理系统。
+- 🎚️ **[sql_generator](https://github.com/itxaiohanglover/sql_generator)** - Entity -> Sql文档工具。
+- 🎚️ **[bookshop](https://github.com/itxaiohanglover/bookshop)** - 云边书香。
+- 🎚️ **[tyut_dormitory](https://github.com/itxaiohanglover/tyut_dormitory_springboot_vue)** - 智慧太理宿舍管理系统。
+- 🎚️ **[music_java](https://github.com/itxaiohanglover/music_java)** - 基于Java实现乐谱演奏。
+- 🎚️ **[3d-world](https://github.com/itxaiohanglover/3d-world)** - 仿照元神，基于Vue + ts 实现的 3d world 游戏。
+- 🎚️ **[VPower](https://github.com/itxaiohanglover/VPower)** - 健身小程序。
