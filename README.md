@@ -32,7 +32,8 @@
 </div>
 
 ## 项目
-
+- 🌍 **[WorldSoul Mod](https://github.com/gccszs/WorldSoul)** - 世界之魂：首个将AI Agent深度集成到Minecraft的Java Mod。
+- 🚀 **[continew-start-skill](https://github.com/itxaiohanglover/continew-start-skill)** - ContiNew初始化工具：自动化ContiNew Admin项目初始化，支持自定义品牌与配置。
 - 🍃 **[spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)** - 阿里官方 Spring AI 实现，接入通义大模型能力的 Java 开发框架。
 - 🧹 **[disk-cleaner](https://github.com/gccszs/disk-cleaner)** - 智能磁盘清理工具 / Agent Skill，自动化释放系统空间。
 - 🐝 **[mcp-codestyle-server](https://github.com/itxaiohanglover/mcp-codestyle-server)** - 码蜂：基于 MCP 协议的企业级代码知识库与效能工具服务端。
